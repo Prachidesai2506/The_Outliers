@@ -29,7 +29,7 @@ This notebook implements the visualization of A* algorithm for navigating two bo
 This notebook implements Q-Learning for receiving dynamic number of bots from respective user along with exploring possible solutions and gives faster response by finding the firsst approach to destination and stopping there saving both time and resources.
 
 
-#Final Code (q_learning.ipynb)
+####Final Code (q_learning.ipynb)
 
 We implemented our Q-Learning algorithm and optimize our outputs in this file.
 It includes outputs including
