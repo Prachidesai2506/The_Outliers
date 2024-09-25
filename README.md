@@ -1,6 +1,6 @@
 # The_Outliers
 
-#### Movement of Single Bot
+#### Movement of Single Bot (Movement_single.ipynb) 
 
 This project implements the A* algorithm to determine the shortest path for a single bot moving from a given source to a destination within a grid. The bot's movement is tracked and displayed step by step with directional commands.
 
