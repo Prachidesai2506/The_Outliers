@@ -24,7 +24,15 @@ This notebook implements the A* algorithm for navigating two bots from their res
 This notebook implements the visualization of A* algorithm for navigating two bots using a grid matrix with tkinter
 
 
-
 #### Used Q-Learning Approach for Multi Bots (q_learning_bot.ipynb)
 
 This notebook implements Q-Learning for receiving dynamic number of bots from respective user along with exploring possible solutions and gives faster response by finding the firsst approach to destination and stopping there saving both time and resources.
+
+
+#Final Code (q_learning.ipynb)
+
+We implemented our Q-Learning algorithm and optimize our outputs in this file.
+It includes outputs including
+- Time Taken
+- Average Steps
+- Each Bot's individual steps
