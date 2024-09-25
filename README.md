@@ -12,3 +12,8 @@ This project implements the A* algorithm to determine the shortest path for a si
       - Right: Rotate 90° clockwise.
 When moving in a different direction (e.g., from facing upward to moving right), the bot first changes its direction (via left or right turns) and then proceeds forward.
 By applying the A* algorithm, the bot calculates the optimal path considering obstacles and efficiently reaches its destination.
+
+
+#### Coordinated Movement of Dual Bots (dual_bots.ipynb)
+
+This notebook implements the A* algorithm for navigating two bots from their respective sources to destinations. In case both bots encounter a potential collision, one bot will wait while the other proceeds, ensuring safe and efficient movement for both.
