@@ -17,3 +17,8 @@ By applying the A* algorithm, the bot calculates the optimal path considering ob
 #### Coordinated Movement of Dual Bots (dual_bots.ipynb)
 
 This notebook implements the A* algorithm for navigating two bots from their respective sources to destinations. In case both bots encounter a potential collision, one bot will wait while the other proceeds, ensuring safe and efficient movement for both.
+
+
+#### GUI display of two bots (gui_dual.ipynb)
+
+This notebook implements the visualization of A* algorithm for navigating two bots using a grid matrix with tkinter
