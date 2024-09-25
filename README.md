@@ -6,7 +6,7 @@ This project implements the A* algorithm to determine the shortest path for a si
 
 ##### Key Features:
 - The bot starts by facing upward.
-Movements are printed in a sequence of actions such as:
+   - Movements are printed in a sequence of actions such as:
 - Forward: Move in the current direction.
 - Left: Rotate 90° counterclockwise.
 - Right: Rotate 90° clockwise.
